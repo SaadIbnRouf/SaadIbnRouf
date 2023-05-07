@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 ###### 🌱 I’m currently learning flutter and fastapi
 ###### 📫 How to reach me: [Link to Email](saadibnrouf004@gmail.com)
 
-### Language & Tools
+### :hammer: Skills
 :dart: Dart :iphone: Flutter :snake: Python :computer: Django
 
