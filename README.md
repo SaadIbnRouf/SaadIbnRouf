@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 ###### 🔭 I’m currently working on a flutter project Whatsapp clone
 ###### 🌱 I’m currently learning flutter and fastapi
 ###### 📫 How to reach me: [Link to Email](saadibnrouf004@gmail.com)
+
+### Language & Tools
+
