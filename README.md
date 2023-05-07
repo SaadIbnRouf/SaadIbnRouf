@@ -1,5 +1,4 @@
 ## Hi there 👋
------
 <!--
 **SaadIbnRouf/SaadIbnRouf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🚀 About Me
------
 ##### Hi! I'm Saad Ibn Rouf, a passionatenself-taught Mobile Apps developer from Dhaka, Bangladesh.
 ###### 🔭 I’m currently working on a flutter project Whatsapp clone
 ###### 🌱 I’m currently learning flutter and fastapi
