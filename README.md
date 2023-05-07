@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 ###### 📫 How to reach me: [Link to Email](saadibnrouf004@gmail.com)
 
 ### Language & Tools
-:iphone: Flutter
+:iphone: Flutter :computer: Django
 
