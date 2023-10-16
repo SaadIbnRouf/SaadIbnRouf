@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🚀 About Me
-#### Hi! I'm Saad Ibn Rouf, a passionatenself-taught Mobile Apps developer from Dhaka, Bangladesh.
+#### Hi! I'm Saad Ibn Rouf, a passionated self-taught Mobile Apps developer from Dhaka, Bangladesh.
 ##### 🔭 I’m currently working on a flutter project Whatsapp clone
 ##### 🌱 I’m currently learning flutter and fastapi
 ##### 📫 How to reach me: [Link to Email](saadibnrouf004@gmail.com)
